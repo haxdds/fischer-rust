@@ -1,0 +1,1 @@
+/home/rahul/Documents/git/rust/fischer/target/debug/fischer: /home/rahul/Documents/git/rust/fischer/src/board.rs /home/rahul/Documents/git/rust/fischer/src/main.rs /home/rahul/Documents/git/rust/fischer/src/square.rs
