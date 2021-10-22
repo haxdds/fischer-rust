@@ -5,8 +5,8 @@ use crate::enums:: {PieceType, PieceColor};
 
 pub struct Board{
 
-    squares: HashMap<Square, Piece>,
-    history: MoveHistory
+    pub squares: HashMap<Square, Piece>,
+    pub history: MoveHistory
 
 }
 

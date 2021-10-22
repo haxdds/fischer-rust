@@ -1,1 +1,1 @@
-/home/rahul/Documents/git/rust/fischer/target/debug/fischer: /home/rahul/Documents/git/rust/fischer/src/board.rs /home/rahul/Documents/git/rust/fischer/src/main.rs /home/rahul/Documents/git/rust/fischer/src/square.rs
+/Users/fermi/Documents/github/fischer-rust/target/debug/fischer: /Users/fermi/Documents/github/fischer-rust/src/board.rs /Users/fermi/Documents/github/fischer-rust/src/enums.rs /Users/fermi/Documents/github/fischer-rust/src/lib.rs /Users/fermi/Documents/github/fischer-rust/src/main.rs /Users/fermi/Documents/github/fischer-rust/src/structures.rs
