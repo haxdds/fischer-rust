@@ -37,7 +37,7 @@ impl Board{
 
         let squares = board_util::setup_board();
 
-        let mut history = MoveHistory::new();
+        let history = MoveHistory::new();
 
         Board{  
             squares: squares,
@@ -47,6 +47,7 @@ impl Board{
 
 
     fn movePiece(&self, s1: &Square, s2: &Square) -> bool {
+        // need to implement
         false
     }
 

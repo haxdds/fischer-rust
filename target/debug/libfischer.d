@@ -1,1 +1,0 @@
-/home/rahul/Documents/git/rust/fischer-rust/target/debug/libfischer.rlib: /home/rahul/Documents/git/rust/fischer-rust/src/board.rs /home/rahul/Documents/git/rust/fischer-rust/src/board_util.rs /home/rahul/Documents/git/rust/fischer-rust/src/enums.rs /home/rahul/Documents/git/rust/fischer-rust/src/lib.rs /home/rahul/Documents/git/rust/fischer-rust/src/structures.rs
